@@ -37,4 +37,13 @@ python main.py
 
 ## Usage
 
+
 The chatbot can be interacted with through a simple command-line interface. It will detect emotions in your messages and respond accordingly while maintaining context from previous interactions. 
+
+
+## Results
+<img width="1920" height="1020" alt="result-final-1" src="https://github.com/user-attachments/assets/1c222e0b-feca-44d7-825a-7695bc3dc03e" />
+<img width="1920" height="1020" alt="result-final-2" src="https://github.com/user-attachments/assets/d11e4f5c-3412-4099-b8d8-ab8e5841afaf" />
+<img width="1920" height="1020" alt="result-final-3" src="https://github.com/user-attachments/assets/4cc5d470-039b-438d-a9f3-57c29d6aba8b" />
+
+
